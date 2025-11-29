@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Node.js
+node_modules/
+.next/
+npm-debug.log
+
+# Project Specific
+garbage_data.db
+debug_frame.jpg
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# System
+.DS_Store
